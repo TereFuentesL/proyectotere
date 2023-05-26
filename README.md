@@ -1,0 +1,2 @@
+# proyectotere
+practica repositorio
